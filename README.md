@@ -10,7 +10,7 @@ There may not me much right now, but I will be adding and organising everything 
 Keep in mind that this is just me uploading my files, **I am not reviewing or re-cheching them and there might be errors, I am not resposible for any questions you may get wrong because of these.
 
 ## How to Download
-You can either scroll to the top and navigate to the required subject and move on to downloading a specific file or simply head to resources to download everything
+You can either scroll to the top and navigate to the required subject and move on to downloading a specific file or simply head to resources to download everything.
 
 ## Reporting Issues
 If you find any mistakes in any notes or flashcards then either make a GitHub account and create and issue under the issues tab of this repository or email me at 'fuzailhamid2002@gmail.com'

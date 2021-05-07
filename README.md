@@ -62,4 +62,4 @@ _To avoid having to manage two versions of the same flashcard, one in word docum
 Look through a few flashcards on Anki every weekend and make small improvements.
 
 ### Credits
-I would like to thank [RehmanAmjad] (https://github.com/RehmanAmjad) for his work on this README. Be sure to checkout his [A-level-resources] (https://github.com/RehmanAmjad/a-level-resources)
+I would like to thank [RehmanAmjad](https://github.com/RehmanAmjad) for his work on this README. Be sure to checkout his [A-level-resources](https://github.com/RehmanAmjad/a-level-resources)

@@ -40,7 +40,7 @@ _OCR Chemistry will be used as an example here._
 ### Making a Pull Request
 1. Once you have exported all your changes. Use GitHub desktop to scan for changes and commit them all to the `dev` branch of your forked repository with an appropiate summary and description of changes.
 2. Go to the `Pull requests` tab of your forked repository on GitHub and press `New pull request` in the top right.
-3. Ensure the `base repository` is this (`FuzailHamid/a-level-stuff`) and its branch is `dev` and the `head repository` is yours and the branch is your `dev`. You should be able to see a summary of the changes if you scroll down.
+3. Ensure the `base repository` is this (`Fuzail-dev/a-level-stuff`) and its branch is `dev` and the `head repository` is yours and the branch is your `dev`. You should be able to see a summary of the changes if you scroll down.
 4. Press `Create pull request` and make an appropiate title and write a description of all the changes you made across all your commits.
 5. Press `Create pull request` and wait for me to have a look at it. It should now appear under the pull requests tab of this repository.
 

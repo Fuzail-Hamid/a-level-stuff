@@ -2,7 +2,7 @@
 
 Hi there,
 
-I've uploaded all my A level worksheets, past papers, flashcards.. etc that I've solved during my A levels (most of the stuff here is from A2 only)
+Here I've uploaded all my A level worksheets, past papers, flashcards.. etc that I've solved during my A levels (most of the stuff here is from A2 only)
 
 There may not me much right now, but I will be adding and organising everything slowly. 
 
